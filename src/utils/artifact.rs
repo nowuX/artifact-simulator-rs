@@ -89,10 +89,10 @@ fn get_main_value(r#type: &Types, main_stat: &Stats) -> f64 {
         return stats_weights.first().unwrap().value;
     }
 
-    return match stats_weights.iter().find(|s| &s.stat == main_stat) {
+    match stats_weights.iter().find(|s| &s.stat == main_stat) {
         None => panic!("Value for stat {main_stat}"),
         Some(s) => s.value,
-    };
+    }
 }
 
 /// Return a random amount of [`Sub Stats`] (3 or 4) of random sub_stats
