@@ -1,8 +1,8 @@
-# Artifact Generator Simulator (AGS)
+# Rust Artifact Simulator (RAS)
 
-![GitHub Repository Size](https://img.shields.io/github/repo-size/nowuX/artifact-simulator.rs
+![GitHub Repository Size](https://img.shields.io/github/repo-size/nowuX/ras
 )
-![Commit Activity](https://img.shields.io/github/commit-activity/y/nowuX/artifact-simulator.rs
+![Commit Activity](https://img.shields.io/github/commit-activity/y/nowuX/ras
 )
 
 ⚠️ This is my first Rust project 🚀, I would appreciate any feedback to improve my code. ⚠️
