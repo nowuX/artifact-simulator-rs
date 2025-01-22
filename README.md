@@ -12,11 +12,6 @@ you were farming from Domains. Following 1:1 the probabilities indicated in
 [Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki) as well most of the documentation is
 taken from the mentioned website 💖.
 
-# TODO List
-- [X] Generate Artifact
-- [ ] Damage Calculation
-- [ ] Weeks farming simulator
-
 This project was born as a port of the code published in
 [Jyo's Spiral Abyss Guides](https://www.youtube.com/@jyolikearock_)'s
 [video](https://youtu.be/qUYkV5wdQ1w?si=Ivj48PdCKNAX9ygz) on YouTube.
